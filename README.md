@@ -11,7 +11,7 @@ Convert units and currencies
 
 ---
 
-![Screenshot](unit.png)
+![Screenshot](currency.png)
 
 ---
 
