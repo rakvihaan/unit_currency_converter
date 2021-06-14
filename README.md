@@ -1,9 +1,9 @@
 # unit_currency_converter
-Convert units and currencies
+Convert units and currencies using real-time currency exchange rates. 
 
 ## Running
 
-- Jus open **conv_gui.py**.
+- Just open **conv_gui.py**.
 
 ## Screenshots
 
